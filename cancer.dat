@@ -1,0 +1,18 @@
+
+
+param T2:=301;
+param T1:=29;
+
+set C1:=  Age	Tumour_Stage	Histology	Surgery_type;
+
+#param n=25;
+
+
+
+
+
+
+
+
+
+
